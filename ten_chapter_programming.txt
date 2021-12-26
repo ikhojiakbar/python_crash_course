@@ -1,0 +1,4 @@
+I love programming!
+I love learning AI!
+I also love finding meaning in large datasets.
+I love crerating apps that can run in a browser.
